@@ -103,6 +103,4 @@ Pour toute question ou problème, veuillez contacter **AsamaeS** ou ouvrir une *
 
 Ce projet est sous licence **MIT** (ou la licence de votre choix).
 
------
 
-Voulez-vous que je vous aide à ajouter ce contenu à votre dépôt GitHub, ou avez-vous d'autres sections que vous aimeriez inclure dans ce `README` ?
